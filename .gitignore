@@ -1,1 +1,7 @@
-/__pycache__
+__pycache__/
+*.egg-info/
+build/
+dist/
+.venv/
+*.json
+*_report_*.csv
